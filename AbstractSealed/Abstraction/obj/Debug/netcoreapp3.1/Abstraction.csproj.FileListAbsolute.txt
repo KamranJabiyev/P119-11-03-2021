@@ -1,0 +1,11 @@
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+E:\P119\C#\AbstractSealed\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+E:\P119\C#\AbstractSealed\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+E:\P119\C#\AbstractSealed\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+E:\P119\C#\AbstractSealed\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+E:\P119\C#\AbstractSealed\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+E:\P119\C#\AbstractSealed\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
